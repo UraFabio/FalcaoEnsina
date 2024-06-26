@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Montserrat';
+    user-select:none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #01c3ff;
+}
+
+main {
+    padding: 15rem;
+}
+
+.falcao-ensina {
+    font-family: 'Noto sans';
+}

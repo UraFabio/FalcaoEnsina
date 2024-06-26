@@ -1,0 +1,13 @@
+.banner-1 {
+    display: flex;
+    gap: 3rem;
+
+    .text-content {
+        font-size: 1rem;
+    }
+
+    img {
+        width: fit-content;
+        max-height:fit-content;
+    }
+}

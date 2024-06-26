@@ -1,0 +1,20 @@
+footer {
+   background-color: beige;
+    padding: 4rem 15rem;
+
+
+    .footer-section-1 {
+        display: flex;
+        
+        span {
+            display: flex;
+            width: 21rem;
+        }
+    }
+
+    hr {
+        background-color: #01327a;
+        height: .125rem;
+        margin: 2.5rem 0;
+    }
+}
