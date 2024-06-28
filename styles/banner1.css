@@ -1,13 +1,17 @@
 .banner-1 {
+    padding: 20rem;
+    padding-bottom: 0;
+    padding-top: 10rem;
     display: flex;
     gap: 3rem;
+    background-color: #01c3ff;
 
     .text-content {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     img {
-        width: fit-content;
-        max-height:fit-content;
+        display: flex;
+        justify-self: right;
     }
 }
